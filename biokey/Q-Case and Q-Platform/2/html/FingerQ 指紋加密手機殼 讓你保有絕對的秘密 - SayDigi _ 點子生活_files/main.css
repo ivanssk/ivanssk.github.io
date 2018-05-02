@@ -1,0 +1,507 @@
+@charset "UTF-8";
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+.appier-ad .footer-disclaimer .disclaimer-img,
+.appier-ad .footer-disclaimer .disclaimer-title,
+.appier-ad .info-disclaimer .disclaimer-img,
+.appier-ad .info-disclaimer .disclaimer-title,
+.appier-ad .logo-disclaimer .disclaimer-img,
+.appier-ad .logo-disclaimer .disclaimer-title,
+body {
+    margin: 0
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block
+}
+
+audio,
+canvas,
+progress,
+video {
+    display: inline-block;
+    vertical-align: baseline
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0
+}
+
+[hidden],
+template {
+    display: none
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+    cursor: pointer
+}
+
+a:active,
+a:hover {
+    outline: 0
+}
+
+abbr[title] {
+    border-bottom: 1px dotted
+}
+
+b,
+strong {
+    font-weight: 700
+}
+
+dfn {
+    font-style: italic
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0
+}
+
+mark {
+    background: #ff0;
+    color: #000
+}
+
+small {
+    font-size: 80%
+}
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+sup {
+    top: -.5em
+}
+
+sub {
+    bottom: -.25em
+}
+
+img {
+    border: 0
+}
+
+svg:not(:root) {
+    overflow: hidden
+}
+
+figure {
+    margin: 1em 40px
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0
+}
+
+pre {
+    overflow: auto
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0
+}
+
+button {
+    overflow: visible
+}
+
+button,
+select {
+    text-transform: none
+}
+
+button,
+html input[type=button],
+input[type=reset],
+input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer
+}
+
+button[disabled],
+html input[disabled] {
+    cursor: default
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0
+}
+
+input {
+    line-height: normal
+}
+
+input[type=checkbox],
+input[type=radio] {
+    box-sizing: border-box;
+    padding: 0
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    height: auto
+}
+
+input[type=search] {
+    -webkit-appearance: textfield;
+    box-sizing: content-box
+}
+
+input[type=search]::-webkit-search-cancel-button,
+input[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+fieldset {
+    border: 1px solid silver;
+    margin: 0 2px;
+    padding: .35em .625em .75em
+}
+
+legend {
+    border: 0
+}
+
+textarea {
+    overflow: auto
+}
+
+optgroup {
+    font-weight: 700
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+legend,
+td,
+th,
+ul {
+    padding: 0
+}
+
+* {
+    font-family: Helvetica, Arial, "Microsoft JhengHei", "微軟正黑體", "新細明體", sans-serif
+}
+
+ul {
+    list-style: none;
+    margin: 0
+}
+
+.clearfix:after,
+.clearfix:before {
+    content: " ";
+    display: table
+}
+
+.clearfix:after {
+    clear: both
+}
+
+.appier-ad {
+    position: relative;
+    border: 1px solid #8bc100;
+    width: 244px;
+    height: 244px;
+    padding: 2px
+}
+
+.appier-ad .logo {
+    background-color: transparent
+}
+
+.appier-ad,
+.appier-ad .info-wrap {
+    background-color: #fff
+}
+
+.appier-ad .title {
+    font-color: #585858
+}
+
+.appier-ad .origin-price {
+    color: #696969
+}
+
+.appier-ad .origin-price::before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    top: 45%;
+    background-color: #696969
+}
+
+.appier-ad .current-price {
+    color: #b90000
+}
+
+.appier-ad .btn {
+    color: #fff;
+    background-color: #8bc100
+}
+
+.appier-ad .btn-lg,
+.appier-ad .btn-sm {
+    border-radius: inherit
+}
+
+.appier-ad .float-div {
+    border: 1px solid transparent;
+    background-color: #fff
+}
+
+.appier-ad .promote-image-wrapper {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10
+}
+
+.appier-ad .promo-wrap {
+    display: none
+}
+
+.appier-ad .showPromoWrap {
+    display: block
+}
+
+.appier-ad .hidePromoWrap {
+    display: none
+}
+
+.appier-ad .promo {
+    display: block
+}
+
+.appier-ad .promo,
+.appier-ad .promo img {
+    width: 100%;
+    height: 100%
+}
+
+.appier-ad .footer-disclaimer,
+.appier-ad .info-disclaimer,
+.appier-ad .logo-disclaimer {
+    display: none
+}
+
+.appier-ad .footer-disclaimer .disclaimer-img,
+.appier-ad .footer-disclaimer .disclaimer-title,
+.appier-ad .info-disclaimer .disclaimer-img,
+.appier-ad .info-disclaimer .disclaimer-title,
+.appier-ad .logo-disclaimer .disclaimer-img,
+.appier-ad .logo-disclaimer .disclaimer-title {
+    text-align: center
+}
+
+.appier-ad .footer-disclaimer .disclaimer-img img,
+.appier-ad .info-disclaimer .disclaimer-img img,
+.appier-ad .logo-disclaimer .disclaimer-img img {
+    max-width: 100%
+}
+
+.discountRateWrap .discountRate {
+    position: absolute;
+    z-index: 2;
+    color: #fff;
+    background-color: #aacd06
+}
+
+.discountPercentage .discountRate {
+    width: 46px;
+    right: 0;
+    top: 0;
+    line-height: 20px;
+    font-size: 12px;
+    text-align: center
+}
+
+.savingPriceRate .discountRate {
+    right: 0;
+    padding-right: 6px;
+    line-height: 24px;
+    font-size: 15px
+}
+
+.item-wrap .savingPriceRate .discountRate::after,
+.savingPriceRate .discountRate::after {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    right: 0;
+    border-style: solid;
+    border-width: 0 70px 53px 0;
+    border-color: transparent #aacd06 transparent transparent;
+    z-index: -1
+}
+
+.item-wrap .savingPriceRate .discountRate {
+    right: 0;
+    padding-right: 1px;
+    line-height: 15px;
+    font-size: 12px
+}
+
+.item-wrap .savingPriceRate .discountRate::after {
+    border-width: 0 54px 36px 0
+}
+
+.FOR_GLOBAL_CSS_INDEX_DO_NOT_DELETE_AND_EDIT,
+.appier-ad .logo .logo-promotional-text-wrap,
+.discountRateWrap.hide {
+    display: none
+}
+
+.appier-ad .logo {
+    display: block;
+    height: 46px;
+    text-align: center;
+    margin-bottom: 4px
+}
+
+.appier-ad .logo img {
+    max-width: 100%;
+    max-height: 46px
+}
+
+.appier-ad .logo .logo-promotional-text-wrap .logo-promotional-text {
+    text-align: center;
+    line-height: 42px;
+    font-size: 20px
+}
+
+.appier-ad .items {
+    width: 244px;
+    height: 192px
+}
+
+.appier-ad .items .item {
+    float: left;
+    display: block;
+    width: 115px;
+    height: 186px;
+    border: 1px solid #d9d9d9;
+    margin: 0 2px
+}
+
+.appier-ad .items .item .img-wrap {
+    position: relative;
+    width: 116px;
+    height: 116px
+}
+
+.appier-ad .items .item .img-wrap .imgDiv {
+    width: 116px;
+    height: 116px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.appier-ad .items .item .info-wrap .title {
+    padding-top: 2px;
+    font-size: 13px;
+    line-height: 19px;
+    height: 21px;
+    overflow: hidden
+}
+
+.appier-ad .items .item .info-wrap .btn-wrap,
+.appier-ad .items .item .info-wrap .price-wrap {
+    text-align: center
+}
+
+.appier-ad .items .item .info-wrap .price-wrap .current-price-wrap,
+.appier-ad .items .item .info-wrap .price-wrap .origin-price-wrap {
+    height: 22px;
+    line-height: 22px
+}
+
+.appier-ad .items .item .info-wrap .price-wrap p {
+    margin: 2px 0;
+    line-height: 16px
+}
+
+.appier-ad .items .item .info-wrap .price-wrap .origin-price {
+    position: relative;
+    font-size: 12px
+}
+
+.appier-ad .items .item .info-wrap .price-wrap .origin-price.hide {
+    display: none!important
+}
+
+.appier-ad .items .item .info-wrap .price-wrap .current-price {
+    font-size: 14px
+}
+
+.appier-ad .items .item .info-wrap .price-wrap .current-price .current-price-title {
+    padding: 0 1px
+}
+
+.appier-ad .items .item .info-wrap .price-wrap .current-price.no-special {
+    color: #fff
+}
+
+.appier-ad .items .item .info-wrap .btn-wrap .btn {
+    line-height: 18px;
+    font-size: 13px;
+    border: none;
+    width: 80px
+}
+
+.appier-ad .items .item.selected {
+    border: 2px solid #F6F7F9
+}

@@ -1,0 +1,19 @@
+
+var ftGUID_3057652="3769873191E6E9";
+var ftConfID_3057652="0";
+var ftParams_3057652="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.inverse.com%2Farticle%2F21432-verifone-s-biometric-finger-scanner-panic-button-and-cameras&cachebuster=962979.1123476481";
+var ftKeyword_3057652="";
+var ftCustom_3057652="";
+var ftSection_3057652="";
+var ftSegment_3057652="";
+var ftSegmentList_3057652=[];
+var ftRuleMatch_3057652="0";
+var ftTimestamp_3057652="1524813885";
+var ftImp3057652 = {};
+ftImp3057652.privacy = "x";
+ftImp3057652.guidAge = "0";
+ftImp3057652.impID = "3769167EED4AFF";
+
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/305/3057652/2204629/js/j-3057652-2204629.js" id="ftscript_m3057652" name="ftscript_m3057652"></scr'+'ipt>');
+                    
