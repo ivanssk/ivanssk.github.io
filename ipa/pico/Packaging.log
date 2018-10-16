@@ -1,148 +1,148 @@
-2018-10-16 14:27:10 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fbd28e07a20; archive(resolved)='<IDEArchive: 0x7fbd279ddca0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+2018-10-16 14:51:15 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fcb39a4de50; archive(resolved)='<IDEArchive: 0x7fcb36f0ec60>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
 	Chain (12, self inclusive):
-	<IDEDistributionProcessingPipelineContext: 0x7fbd28e07a20; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionProcessingPipelineContext: 0x7fbd27ca3800; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd294106b0; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd291a5120; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd291fa850; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd27a43fb0; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd2590b5d0; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd27cfb510; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd27aeed50; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbd24f2c1b0; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
-	<IDEDistributionContext: 0x7fbd291d40a0; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='(null)'>
-	<IDEDistributionContext: 0x7fbd291b6410; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fbd21ce8b00>', team='(null)'>
-	<IDEDistributionContext: 0x7fbd28c44000; archive = '<IDEArchive: 0x7fbd279ddca0>', distributionMethod='(null)', team='(null)'>
-</IDEDistributionProcessingPipelineContext: 0x7fbd28e07a20>
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionCreateDestRootStep
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionCopyItemStep
-2018-10-16 14:27:10 +0000  Running /usr/bin/ditto '-V' '/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app'
-2018-10-16 14:27:10 +0000  >>> Copying /Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app 
-2018-10-16 14:27:10 +0000  copying file ./pico-EU-Onyx.strings ... 
-2018-10-16 14:27:10 +0000  340 bytes for ./pico-EU-Onyx.strings
-2018-10-16 14:27:10 +0000  copying file ./_CodeSignature/CodeResources ... 
-2018-10-16 14:27:10 +0000  29419 bytes for ./_CodeSignature/CodeResources
-2018-10-16 14:27:10 +0000  copying file ./zh-Hans.lproj/Localizable.strings ... 
-2018-10-16 14:27:10 +0000  2625 bytes for ./zh-Hans.lproj/Localizable.strings
+	<IDEDistributionProcessingPipelineContext: 0x7fcb39a4de50; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fcb38f6b5b0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb38f213f0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb38ed5200; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb36f70e20; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb39a60b70; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb389f9ae0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb39a14de0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb38cf33e0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fcb38dea970; teamID='874R32TFC3', teamName='Ampacs Corporation', teamType='Company', username='tim.lai@ampacscorp.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fcb38d92eb0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='(null)'>
+	<IDEDistributionContext: 0x7fcb38f088f0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fcb3571b750>', team='(null)'>
+	<IDEDistributionContext: 0x7fcb38d0bde0; archive = '<IDEArchive: 0x7fcb36f0ec60>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fcb39a4de50>
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionCopyItemStep
+2018-10-16 14:51:15 +0000  Running /usr/bin/ditto '-V' '/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app'
+2018-10-16 14:51:15 +0000  >>> Copying /Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app 
+2018-10-16 14:51:15 +0000  copying file ./pico-EU-Onyx.strings ... 
+2018-10-16 14:51:15 +0000  340 bytes for ./pico-EU-Onyx.strings
+2018-10-16 14:51:15 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-10-16 14:51:15 +0000  29419 bytes for ./_CodeSignature/CodeResources
+2018-10-16 14:51:15 +0000  copying file ./zh-Hans.lproj/Localizable.strings ... 
+2018-10-16 14:51:15 +0000  2625 bytes for ./zh-Hans.lproj/Localizable.strings
 copying file ./zh-Hans.lproj/defectedTable.strings ... 
-2018-10-16 14:27:10 +0000  288 bytes for ./zh-Hans.lproj/defectedTable.strings
-2018-10-16 14:27:10 +0000  copying file ./pico-RW-Apple-Onyx.strings ... 
-2018-10-16 14:27:10 +0000  348 bytes for ./pico-RW-Apple-Onyx.strings
-2018-10-16 14:27:10 +0000  copying file ./AppIcon20x20@2x.png ... 
-2018-10-16 14:27:10 +0000  2215 bytes for ./AppIcon20x20@2x.png
+2018-10-16 14:51:15 +0000  288 bytes for ./zh-Hans.lproj/defectedTable.strings
+2018-10-16 14:51:15 +0000  copying file ./pico-RW-Apple-Onyx.strings ... 
+2018-10-16 14:51:15 +0000  348 bytes for ./pico-RW-Apple-Onyx.strings
+copying file ./AppIcon20x20@2x.png ... 
+2018-10-16 14:51:15 +0000  2215 bytes for ./AppIcon20x20@2x.png
 copying file ./pico-RW-Ice.strings ... 
-2018-10-16 14:27:10 +0000  308 bytes for ./pico-RW-Ice.strings
-copying file ./pico-RW-Onyx.strings ... 
-2018-10-16 14:27:10 +0000  308 bytes for ./pico-RW-Onyx.strings
-2018-10-16 14:27:10 +0000  copying file ./AppIcon20x20@3x.png ... 
-2018-10-16 14:27:10 +0000  4075 bytes for ./AppIcon20x20@3x.png
+2018-10-16 14:51:15 +0000  308 bytes for ./pico-RW-Ice.strings
+2018-10-16 14:51:15 +0000  copying file ./pico-RW-Onyx.strings ... 
+2018-10-16 14:51:15 +0000  308 bytes for ./pico-RW-Onyx.strings
+copying file ./AppIcon20x20@3x.png ... 
+2018-10-16 14:51:15 +0000  4075 bytes for ./AppIcon20x20@3x.png
 copying file ./PicoTest ... 
-2018-10-16 14:27:10 +0000  888896 bytes for ./PicoTest
-copying file ./pico-RW-Apple-Graphite.strings ... 
-2018-10-16 14:27:10 +0000  350 bytes for ./pico-RW-Apple-Graphite.strings
+2018-10-16 14:51:15 +0000  888896 bytes for ./PicoTest
+2018-10-16 14:51:15 +0000  copying file ./pico-RW-Apple-Graphite.strings ... 
+350 bytes for ./pico-RW-Apple-Graphite.strings
 copying file ./AppIcon60x60@2x.png ... 
 10825 bytes for ./AppIcon60x60@2x.png
-2018-10-16 14:27:10 +0000  copying file ./reducedHFsweep5s.wav ... 
-2018-10-16 14:27:10 +0000  480044 bytes for ./reducedHFsweep5s.wav
+copying file ./reducedHFsweep5s.wav ... 
+480044 bytes for ./reducedHFsweep5s.wav
 copying file ./pico-GenII-Onyx.strings ... 
-2018-10-16 14:27:10 +0000  346 bytes for ./pico-GenII-Onyx.strings
-2018-10-16 14:27:10 +0000  copying file ./AppIcon29x29@2x.png ... 
-2018-10-16 14:27:10 +0000  3868 bytes for ./AppIcon29x29@2x.png
+346 bytes for ./pico-GenII-Onyx.strings
+2018-10-16 14:51:15 +0000  copying file ./AppIcon29x29@2x.png ... 
+2018-10-16 14:51:15 +0000  3868 bytes for ./AppIcon29x29@2x.png
 copying file ./pico-EU-Ice.strings ... 
-2018-10-16 14:27:10 +0000  340 bytes for ./pico-EU-Ice.strings
-copying file ./AppIcon40x40@3x.png ... 
-2018-10-16 14:27:10 +0000  10825 bytes for ./AppIcon40x40@3x.png
-2018-10-16 14:27:10 +0000  copying file ./AppIcon29x29~ipad.png ... 
-2018-10-16 14:27:10 +0000  1459 bytes for ./AppIcon29x29~ipad.png
-copying file ./AppIcon40x40@2x.png ... 
-2018-10-16 14:27:10 +0000  5793 bytes for ./AppIcon40x40@2x.png
-2018-10-16 14:27:10 +0000  copying file ./pico-GenII-Ice.strings ... 
-2018-10-16 14:27:10 +0000  346 bytes for ./pico-GenII-Ice.strings
-2018-10-16 14:27:10 +0000  copying file ./AppIcon29x29@3x.png ... 
-2018-10-16 14:27:10 +0000  6727 bytes for ./AppIcon29x29@3x.png
-2018-10-16 14:27:10 +0000  copying file ./AppIcon60x60@3x.png ... 
-2018-10-16 14:27:10 +0000  24334 bytes for ./AppIcon60x60@3x.png
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Localizable.strings ... 
-2018-10-16 14:27:10 +0000  3011 bytes for ./Base.lproj/Localizable.strings
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib ... 
-4741 bytes for ./Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib
-copying file ./Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib ... 
-2018-10-16 14:27:10 +0000  10460 bytes for ./Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/uploader.nib ... 
-2018-10-16 14:27:10 +0000  1030 bytes for ./Base.lproj/Main.storyboardc/uploader.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/checkTableVC.nib ... 
-2018-10-16 14:27:10 +0000  1029 bytes for ./Base.lproj/Main.storyboardc/checkTableVC.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/initTest.nib ... 
-2018-10-16 14:27:10 +0000  1030 bytes for ./Base.lproj/Main.storyboardc/initTest.nib
+2018-10-16 14:51:15 +0000  340 bytes for ./pico-EU-Ice.strings
+2018-10-16 14:51:15 +0000  copying file ./AppIcon40x40@3x.png ... 
+2018-10-16 14:51:15 +0000  10825 bytes for ./AppIcon40x40@3x.png
+2018-10-16 14:51:15 +0000  copying file ./AppIcon29x29~ipad.png ... 
+2018-10-16 14:51:15 +0000  1459 bytes for ./AppIcon29x29~ipad.png
+2018-10-16 14:51:15 +0000  copying file ./AppIcon40x40@2x.png ... 
+2018-10-16 14:51:15 +0000  5793 bytes for ./AppIcon40x40@2x.png
+copying file ./pico-GenII-Ice.strings ... 
+2018-10-16 14:51:15 +0000  346 bytes for ./pico-GenII-Ice.strings
+copying file ./AppIcon29x29@3x.png ... 
+2018-10-16 14:51:15 +0000  6727 bytes for ./AppIcon29x29@3x.png
+copying file ./AppIcon60x60@3x.png ... 
+2018-10-16 14:51:15 +0000  24334 bytes for ./AppIcon60x60@3x.png
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Localizable.strings ... 
+2018-10-16 14:51:15 +0000  3011 bytes for ./Base.lproj/Localizable.strings
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib ... 
+2018-10-16 14:51:15 +0000  4736 bytes for ./Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib ... 
+2018-10-16 14:51:15 +0000  10463 bytes for ./Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/uploader.nib ... 
+1030 bytes for ./Base.lproj/Main.storyboardc/uploader.nib
+copying file ./Base.lproj/Main.storyboardc/checkTableVC.nib ... 
+1029 bytes for ./Base.lproj/Main.storyboardc/checkTableVC.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/initTest.nib ... 
+2018-10-16 14:51:15 +0000  1030 bytes for ./Base.lproj/Main.storyboardc/initTest.nib
 copying file ./Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib ... 
-2018-10-16 14:27:10 +0000  5797 bytes for ./Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib
-copying file ./Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib ... 
-2018-10-16 14:27:10 +0000  11954 bytes for ./Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib ... 
-2018-10-16 14:27:10 +0000  10348 bytes for ./Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib
-copying file ./Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib ... 
-2018-10-16 14:27:10 +0000  7384 bytes for ./Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib
+2018-10-16 14:51:15 +0000  5803 bytes for ./Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib ... 
+2018-10-16 14:51:15 +0000  11948 bytes for ./Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib
+copying file ./Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib ... 
+2018-10-16 14:51:15 +0000  10343 bytes for ./Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib ... 
+2018-10-16 14:51:15 +0000  7385 bytes for ./Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib
 copying file ./Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib ... 
-2018-10-16 14:27:10 +0000  4447 bytes for ./Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib ... 
-2018-10-16 14:27:10 +0000  4230 bytes for ./Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/main.nib ... 
-2018-10-16 14:27:10 +0000  2483 bytes for ./Base.lproj/Main.storyboardc/main.nib
+2018-10-16 14:51:15 +0000  4448 bytes for ./Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib
+copying file ./Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib ... 
+2018-10-16 14:51:15 +0000  4233 bytes for ./Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/main.nib ... 
+2018-10-16 14:51:15 +0000  2484 bytes for ./Base.lproj/Main.storyboardc/main.nib
 copying file ./Base.lproj/Main.storyboardc/finalResult.nib ... 
-2018-10-16 14:27:10 +0000  1036 bytes for ./Base.lproj/Main.storyboardc/finalResult.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib ... 
-2018-10-16 14:27:10 +0000  7286 bytes for ./Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib
-copying file ./Base.lproj/Main.storyboardc/factoryReset.nib ... 
-2018-10-16 14:27:10 +0000  1101 bytes for ./Base.lproj/Main.storyboardc/factoryReset.nib
-copying file ./Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib ... 
-2018-10-16 14:27:10 +0000  9070 bytes for ./Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/accessoryPrinter.nib ... 
-2018-10-16 14:27:10 +0000  1250 bytes for ./Base.lproj/Main.storyboardc/accessoryPrinter.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/resetDefault.nib ... 
-2018-10-16 14:27:10 +0000  1116 bytes for ./Base.lproj/Main.storyboardc/resetDefault.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/notFinalResult.nib ... 
-2018-10-16 14:27:10 +0000  934 bytes for ./Base.lproj/Main.storyboardc/notFinalResult.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/testTemplate.nib ... 
-2018-10-16 14:27:10 +0000  1038 bytes for ./Base.lproj/Main.storyboardc/testTemplate.nib
+2018-10-16 14:51:15 +0000  1036 bytes for ./Base.lproj/Main.storyboardc/finalResult.nib
+copying file ./Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib ... 
+2018-10-16 14:51:15 +0000  7284 bytes for ./Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/factoryReset.nib ... 
+2018-10-16 14:51:15 +0000  1101 bytes for ./Base.lproj/Main.storyboardc/factoryReset.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib ... 
+2018-10-16 14:51:15 +0000  9071 bytes for ./Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib
+copying file ./Base.lproj/Main.storyboardc/accessoryPrinter.nib ... 
+2018-10-16 14:51:15 +0000  1250 bytes for ./Base.lproj/Main.storyboardc/accessoryPrinter.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/resetDefault.nib ... 
+2018-10-16 14:51:15 +0000  1116 bytes for ./Base.lproj/Main.storyboardc/resetDefault.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/notFinalResult.nib ... 
+2018-10-16 14:51:15 +0000  934 bytes for ./Base.lproj/Main.storyboardc/notFinalResult.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/Main.storyboardc/testTemplate.nib ... 
+2018-10-16 14:51:15 +0000  1038 bytes for ./Base.lproj/Main.storyboardc/testTemplate.nib
 copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
-2018-10-16 14:27:10 +0000  497 bytes for ./Base.lproj/Main.storyboardc/Info.plist
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/Main.storyboardc/mainScene.nib ... 
-2018-10-16 14:27:10 +0000  1671 bytes for ./Base.lproj/Main.storyboardc/mainScene.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/defectedTable.strings ... 
-2018-10-16 14:27:10 +0000  400 bytes for ./Base.lproj/defectedTable.strings
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
-2018-10-16 14:27:10 +0000  1792 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
-2018-10-16 14:27:10 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
-2018-10-16 14:27:10 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
-2018-10-16 14:27:10 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
-2018-10-16 14:27:10 +0000  copying file ./zh-Hant.lproj/Localizable.strings ... 
-2018-10-16 14:27:10 +0000  2623 bytes for ./zh-Hant.lproj/Localizable.strings
+2018-10-16 14:51:15 +0000  497 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+copying file ./Base.lproj/Main.storyboardc/mainScene.nib ... 
+2018-10-16 14:51:15 +0000  1671 bytes for ./Base.lproj/Main.storyboardc/mainScene.nib
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/defectedTable.strings ... 
+2018-10-16 14:51:15 +0000  400 bytes for ./Base.lproj/defectedTable.strings
+2018-10-16 14:51:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-10-16 14:51:15 +0000  1790 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-10-16 14:51:15 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-10-16 14:51:15 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-10-16 14:51:15 +0000  copying file ./zh-Hant.lproj/Localizable.strings ... 
+2018-10-16 14:51:15 +0000  2623 bytes for ./zh-Hant.lproj/Localizable.strings
 copying file ./zh-Hant.lproj/defectedTable.strings ... 
-2018-10-16 14:27:10 +0000  284 bytes for ./zh-Hant.lproj/defectedTable.strings
-2018-10-16 14:27:10 +0000  copying file ./pico-EU-Apple-Graphite.strings ... 
-2018-10-16 14:27:10 +0000  359 bytes for ./pico-EU-Apple-Graphite.strings
-2018-10-16 14:27:10 +0000  copying file ./Assets.car ... 
-2018-10-16 14:27:10 +0000  456456 bytes for ./Assets.car
+2018-10-16 14:51:15 +0000  284 bytes for ./zh-Hant.lproj/defectedTable.strings
+2018-10-16 14:51:15 +0000  copying file ./pico-EU-Apple-Graphite.strings ... 
+2018-10-16 14:51:15 +0000  359 bytes for ./pico-EU-Apple-Graphite.strings
+2018-10-16 14:51:15 +0000  copying file ./Assets.car ... 
+2018-10-16 14:51:15 +0000  456456 bytes for ./Assets.car
 copying file ./AppIcon40x40@2x~ipad.png ... 
-2018-10-16 14:27:10 +0000  5793 bytes for ./AppIcon40x40@2x~ipad.png
+2018-10-16 14:51:15 +0000  5793 bytes for ./AppIcon40x40@2x~ipad.png
 copying file ./AppIcon76x76@2x~ipad.png ... 
-2018-10-16 14:27:10 +0000  14213 bytes for ./AppIcon76x76@2x~ipad.png
-2018-10-16 14:27:10 +0000  copying file ./AppIcon83.5x83.5@2x~ipad.png ... 
-2018-10-16 14:27:10 +0000  16269 bytes for ./AppIcon83.5x83.5@2x~ipad.png
-copying file ./AppIcon29x29@2x~ipad.png ... 
-2018-10-16 14:27:10 +0000  3868 bytes for ./AppIcon29x29@2x~ipad.png
-copying file ./RoastMutton-30s.wav ... 
-2018-10-16 14:27:10 +0000  968634 bytes for ./RoastMutton-30s.wav
-2018-10-16 14:27:10 +0000  copying file ./AppIcon40x40~ipad.png ... 
+2018-10-16 14:51:15 +0000  14213 bytes for ./AppIcon76x76@2x~ipad.png
+2018-10-16 14:51:15 +0000  copying file ./AppIcon83.5x83.5@2x~ipad.png ... 
+2018-10-16 14:51:15 +0000  16269 bytes for ./AppIcon83.5x83.5@2x~ipad.png
+2018-10-16 14:51:15 +0000  copying file ./AppIcon29x29@2x~ipad.png ... 
+2018-10-16 14:51:15 +0000  3868 bytes for ./AppIcon29x29@2x~ipad.png
+2018-10-16 14:51:15 +0000  copying file ./RoastMutton-30s.wav ... 
+2018-10-16 14:51:15 +0000  968634 bytes for ./RoastMutton-30s.wav
+2018-10-16 14:51:15 +0000  copying file ./AppIcon40x40~ipad.png ... 
 2215 bytes for ./AppIcon40x40~ipad.png
-copying file ./Frameworks/libswiftCoreImage.dylib ... 
-250720 bytes for ./Frameworks/libswiftCoreImage.dylib
+2018-10-16 14:51:15 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2018-10-16 14:51:15 +0000  250720 bytes for ./Frameworks/libswiftCoreImage.dylib
 copying file ./Frameworks/libswiftObjectiveC.dylib ... 
-299264 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2018-10-16 14:51:15 +0000  299264 bytes for ./Frameworks/libswiftObjectiveC.dylib
 copying file ./Frameworks/libswiftCore.dylib ... 
-2018-10-16 14:27:10 +0000  16704784 bytes for ./Frameworks/libswiftCore.dylib
+2018-10-16 14:51:15 +0000  16704784 bytes for ./Frameworks/libswiftCore.dylib
 copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
-2018-10-16 14:27:10 +0000  651440 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2018-10-16 14:51:15 +0000  651440 bytes for ./Frameworks/libswiftCoreGraphics.dylib
 copying file ./Frameworks/libswiftUIKit.dylib ... 
 526752 bytes for ./Frameworks/libswiftUIKit.dylib
 copying file ./Frameworks/libswiftMetal.dylib ... 
@@ -160,15 +160,15 @@ copying file ./Frameworks/libswiftCoreFoundation.dylib ...
 copying file ./Frameworks/libswiftDarwin.dylib ... 
 402624 bytes for ./Frameworks/libswiftDarwin.dylib
 copying file ./Frameworks/libswiftQuartzCore.dylib ... 
-254752 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2018-10-16 14:51:15 +0000  254752 bytes for ./Frameworks/libswiftQuartzCore.dylib
 copying file ./Frameworks/libswiftCoreAudio.dylib ... 
 348288 bytes for ./Frameworks/libswiftCoreAudio.dylib
 copying file ./Frameworks/libswiftAVFoundation.dylib ... 
-2018-10-16 14:27:10 +0000  525520 bytes for ./Frameworks/libswiftAVFoundation.dylib
+525520 bytes for ./Frameworks/libswiftAVFoundation.dylib
 copying file ./Frameworks/libswiftFoundation.dylib ... 
-2018-10-16 14:27:10 +0000  8352080 bytes for ./Frameworks/libswiftFoundation.dylib
-2018-10-16 14:27:10 +0000  copying file ./Frameworks/libswiftCoreMedia.dylib ... 
-299584 bytes for ./Frameworks/libswiftCoreMedia.dylib
+2018-10-16 14:51:15 +0000  8352080 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./Frameworks/libswiftCoreMedia.dylib ... 
+2018-10-16 14:51:15 +0000  299584 bytes for ./Frameworks/libswiftCoreMedia.dylib
 copying file ./Frameworks/libswiftsimd.dylib ... 
 1802272 bytes for ./Frameworks/libswiftsimd.dylib
 copying file ./AppIcon20x20~ipad.png ... 
@@ -176,7 +176,7 @@ copying file ./AppIcon20x20~ipad.png ...
 copying file ./LR-test-10s.mp3 ... 
 322401 bytes for ./LR-test-10s.mp3
 copying file ./embedded.mobileprovision ... 
-7601 bytes for ./embedded.mobileprovision
+7608 bytes for ./embedded.mobileprovision
 copying file ./pico-EU-Apple-Onyx.strings ... 
 357 bytes for ./pico-EU-Apple-Onyx.strings
 copying file ./pico-GenII-Graphite.strings ... 
@@ -184,228 +184,228 @@ copying file ./pico-GenII-Graphite.strings ...
 copying file ./AppIcon20x20@2x~ipad.png ... 
 2215 bytes for ./AppIcon20x20@2x~ipad.png
 copying file ./Info.plist ... 
-2104 bytes for ./Info.plist
+2018-10-16 14:51:15 +0000  2104 bytes for ./Info.plist
 copying file ./PkgInfo ... 
-8 bytes for ./PkgInfo
+2018-10-16 14:51:15 +0000  8 bytes for ./PkgInfo
 copying file ./AppIcon76x76~ipad.png ... 
-2018-10-16 14:27:10 +0000  /usr/bin/ditto exited with 0
-2018-10-16 14:27:10 +0000  5254 bytes for ./AppIcon76x76~ipad.png
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionEmbedProfileStep
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd25f027a0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fbd28b99910:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd259dd050 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fbd21df51a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd24f09870 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fbd28c634a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd24c207d0 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fbd27aa7600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd24ae4fb0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fbd291db490:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd2496bcd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fbd2913b6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd28dc93f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fbd279b83a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd291e7040 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fbd291dd6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd27fe33f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fbd291d48b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd27b36d80 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fbd28ca7800:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd27b2e180 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fbd291dc5b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd24958ab0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fbd24da3160:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd25f37240 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fbd28c7d820:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd27968ed0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fbd25be9250:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd24fdc840 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fbd2919c090:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd28ed1930 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fbd27b2ff00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd21d40a30 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fbd21d373f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fbd27c380a0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fbd2593feb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'>
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionAppThinningPlistStep
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionCompileBitcodeStep
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionCodeSlimmingStep
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionSymbolsStep
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionAppThinningStep
-2018-10-16 14:27:10 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionODRStep
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionStripXattrsStep
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd25f027a0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fbd28b99910:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd259dd050 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fbd21df51a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd24f09870 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fbd28c634a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd24c207d0 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fbd27aa7600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd24ae4fb0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fbd291db490:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd2496bcd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fbd2913b6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd28dc93f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fbd279b83a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd291e7040 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fbd291dd6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd27fe33f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fbd291d48b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd27b36d80 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fbd28ca7800:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd27b2e180 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fbd291dc5b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd24958ab0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fbd24da3160:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd25f37240 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fbd28c7d820:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd27968ed0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fbd25be9250:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd24fdc840 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fbd2919c090:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd28ed1930 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fbd27b2ff00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd21d40a30 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fbd21d373f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'>
-2018-10-16 14:27:10 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fbd27c380a0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fbd2593feb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'>
-2018-10-16 14:27:10 +0000  Running /usr/bin/xattr '-crs' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app'
-2018-10-16 14:27:10 +0000  /usr/bin/xattr exited with 0
-2018-10-16 14:27:10 +0000  Processing step: IDEDistributionCodesignStep
-2018-10-16 14:27:10 +0000  Entitlements for <IDEDistributionItem: 0x7fbd25f027a0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fbd28b99910:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'>: {
+2018-10-16 14:51:15 +0000  5254 bytes for ./AppIcon76x76~ipad.png
+2018-10-16 14:51:15 +0000  /usr/bin/ditto exited with 0
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38ac1020 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fcb38c27c80:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f12c30 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fcb38d12a10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38df9c30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fcb38d0ceb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f21260 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fcb38c88900:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38dd7530 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fcb35756480:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f53070 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fcb38ca1890:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38d65400 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fcb38ccda50:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f55f40 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fcb38d345a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f1abf0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fcb38d491f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f323c0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fcb38a81c00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb39a28660 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fcb38f078e0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f165d0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fcb38a82410:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38da1ed0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fcb38d897c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38cf0a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fcb38d10600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38d26370 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fcb38d90280:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb39b622a0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fcb38da9b10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb38f33460 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fcb38d111f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcb36dc0a30 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fcb38da8680:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'>
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionSymbolsStep
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionAppThinningStep
+2018-10-16 14:51:15 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionODRStep
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38ac1020 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fcb38c27c80:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f12c30 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fcb38d12a10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38df9c30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fcb38d0ceb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f21260 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fcb38c88900:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38dd7530 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fcb35756480:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f53070 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fcb38ca1890:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38d65400 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fcb38ccda50:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f55f40 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fcb38d345a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f1abf0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fcb38d491f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f323c0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fcb38a81c00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb39a28660 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fcb38f078e0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f165d0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fcb38a82410:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38da1ed0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fcb38d897c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38cf0a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fcb38d10600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38d26370 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fcb38d90280:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb39b622a0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fcb38da9b10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb38f33460 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fcb38d111f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'>
+2018-10-16 14:51:15 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcb36dc0a30 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fcb38da8680:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'>
+2018-10-16 14:51:15 +0000  Running /usr/bin/xattr '-crs' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app'
+2018-10-16 14:51:15 +0000  /usr/bin/xattr exited with 0
+2018-10-16 14:51:15 +0000  Processing step: IDEDistributionCodesignStep
+2018-10-16 14:51:15 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38ac1020 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fcb38c27c80:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'>: {
 }
-2018-10-16 14:27:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd25f027a0 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fbd28b99910:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsZsqnh1
-2018-10-16 14:27:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsZsqnh1' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'
-2018-10-16 14:27:10 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib: replacing existing signature
-2018-10-16 14:27:10 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftAVFoundation]
-2018-10-16 14:27:10 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:10 +0000  Entitlements for <IDEDistributionItem: 0x7fbd259dd050 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fbd21df51a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'>: {
+2018-10-16 14:51:15 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38ac1020 'com.apple.dt.runtime.swiftAVFoundation' '<DVTFilePath:0x7fcb38c27c80:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlements4gWnWx
+2018-10-16 14:51:15 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlements4gWnWx' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib'
+2018-10-16 14:51:15 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib: replacing existing signature
+2018-10-16 14:51:15 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftAVFoundation]
+2018-10-16 14:51:15 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:15 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f12c30 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fcb38d12a10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'>: {
 }
-2018-10-16 14:27:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd259dd050 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fbd21df51a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementshsB0iL
-2018-10-16 14:27:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementshsB0iL' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCore.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCore.dylib: replacing existing signature
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
-2018-10-16 14:27:11 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fbd24f09870 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fbd28c634a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'>: {
+2018-10-16 14:51:15 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f12c30 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fcb38d12a10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementshLMnbj
+2018-10-16 14:51:15 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementshLMnbj' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCore.dylib'
+2018-10-16 14:51:15 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2018-10-16 14:51:15 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2018-10-16 14:51:15 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:15 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38df9c30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fcb38d0ceb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'>: {
 }
-2018-10-16 14:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd24f09870 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fbd28c634a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementselhuXt
-2018-10-16 14:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementselhuXt' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib: replacing existing signature
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreAudio]
-2018-10-16 14:27:11 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fbd24c207d0 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fbd27aa7600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'>: {
+2018-10-16 14:51:15 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38df9c30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fcb38d0ceb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementseri5VI
+2018-10-16 14:51:15 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementseri5VI' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreAudio]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f21260 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fcb38c88900:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'>: {
 }
-2018-10-16 14:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd24c207d0 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fbd27aa7600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementseAtRNs
-2018-10-16 14:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementseAtRNs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib: replacing existing signature
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreData]
-2018-10-16 14:27:11 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fbd24ae4fb0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fbd291db490:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f21260 'com.apple.dt.runtime.swiftCoreData' '<DVTFilePath:0x7fcb38c88900:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreData.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsAMNH8N
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsAMNH8N' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreData]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38dd7530 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fcb35756480:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
 }
-2018-10-16 14:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd24ae4fb0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fbd291db490:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsHoAsfQ
-2018-10-16 14:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsHoAsfQ' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
-2018-10-16 14:27:11 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fbd2496bcd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fbd2913b6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38dd7530 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fcb35756480:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsOS5hhl
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsOS5hhl' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f53070 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fcb38ca1890:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
 }
-2018-10-16 14:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd2496bcd0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fbd2913b6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsf0HSgo
-2018-10-16 14:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsf0HSgo' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
-2018-10-16 14:27:11 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fbd28dc93f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fbd279b83a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f53070 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fcb38ca1890:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlements91SlKU
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlements91SlKU' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38d65400 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fcb38ccda50:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'>: {
 }
-2018-10-16 14:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd28dc93f0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fbd279b83a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsh9UzPC
-2018-10-16 14:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsh9UzPC' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
-2018-10-16 14:27:11 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fbd291e7040 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fbd291dd6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38d65400 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fcb38ccda50:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsNTAsUJ
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsNTAsUJ' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f55f40 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fcb38d345a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'>: {
 }
-2018-10-16 14:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd291e7040 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fbd291dd6c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsBoZEGc
-2018-10-16 14:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsBoZEGc' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'
-2018-10-16 14:27:11 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreMedia]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd27fe33f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fbd291d48b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f55f40 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fcb38d345a0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsqMKDur
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsqMKDur' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreMedia]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f1abf0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fcb38d491f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd27fe33f0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fbd291d48b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlements7jRAlM
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlements7jRAlM' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd27b36d80 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fbd28ca7800:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f1abf0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fcb38d491f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsvYzsWc
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsvYzsWc' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f323c0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fcb38a81c00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd27b36d80 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fbd28ca7800:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlements9JTC9s
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlements9JTC9s' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd27b2e180 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fbd291dc5b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f323c0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fcb38a81c00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsKxkDjO
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsKxkDjO' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib'
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2018-10-16 14:51:16 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2018-10-16 14:51:16 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:16 +0000  Entitlements for <IDEDistributionItem: 0x7fcb39a28660 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fcb38f078e0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd27b2e180 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fbd291dc5b0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlements3wMDrd
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlements3wMDrd' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd24958ab0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fbd24da3160:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'>: {
+2018-10-16 14:51:16 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb39a28660 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fcb38f078e0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementslh6UGd
+2018-10-16 14:51:16 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementslh6UGd' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f165d0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fcb38a82410:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd24958ab0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fbd24da3160:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsuEe7d4
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsuEe7d4' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMediaPlayer]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd25f37240 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fbd28c7d820:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f165d0 'com.apple.dt.runtime.swiftMediaPlayer' '<DVTFilePath:0x7fcb38a82410:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsWitApk
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsWitApk' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMediaPlayer]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38da1ed0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fcb38d897c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd25f37240 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fbd28c7d820:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementslu8Mep
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementslu8Mep' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftMetal.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftMetal.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd27968ed0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fbd25be9250:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38da1ed0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fcb38d897c0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsJQjexE
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsJQjexE' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftMetal.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38cf0a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fcb38d10600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd27968ed0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fbd25be9250:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsjHCBvD
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsjHCBvD' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
-2018-10-16 14:27:12 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:12 +0000  Entitlements for <IDEDistributionItem: 0x7fbd24fdc840 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fbd2919c090:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38cf0a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fcb38d10600:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementstYmLOg
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementstYmLOg' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38d26370 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fcb38d90280:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
 }
-2018-10-16 14:27:12 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd24fdc840 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fbd2919c090:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsu2jWyk
-2018-10-16 14:27:12 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsu2jWyk' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'
-2018-10-16 14:27:12 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
-2018-10-16 14:27:13 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:13 +0000  Entitlements for <IDEDistributionItem: 0x7fbd28ed1930 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fbd27b2ff00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38d26370 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fcb38d90280:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsNpHf6C
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsNpHf6C' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb39b622a0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fcb38da9b10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'>: {
 }
-2018-10-16 14:27:13 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd28ed1930 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fbd27b2ff00:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsOMEBft
-2018-10-16 14:27:13 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsOMEBft' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib'
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
-2018-10-16 14:27:13 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:13 +0000  Entitlements for <IDEDistributionItem: 0x7fbd21d40a30 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fbd21d373f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb39b622a0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fcb38da9b10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsH8pd06
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsH8pd06' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38f33460 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fcb38d111f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'>: {
 }
-2018-10-16 14:27:13 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd21d40a30 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fbd21d373f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsizJ78s
-2018-10-16 14:27:13 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsizJ78s' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftos.dylib'
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftos.dylib: replacing existing signature
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
-2018-10-16 14:27:13 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:13 +0000  Entitlements for <IDEDistributionItem: 0x7fbd27c380a0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fbd2593feb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38f33460 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fcb38d111f0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsMwqbxo
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsMwqbxo' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftos.dylib'
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftos.dylib: replacing existing signature
+2018-10-16 14:51:17 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2018-10-16 14:51:17 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:17 +0000  Entitlements for <IDEDistributionItem: 0x7fcb36dc0a30 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fcb38da8680:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'>: {
 }
-2018-10-16 14:27:13 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd27c380a0 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fbd2593feb0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsNjxr7i
-2018-10-16 14:27:13 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsNjxr7i' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftsimd.dylib'
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftsimd.dylib: replacing existing signature
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app/Frameworks/libswiftsimd.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftsimd]
-2018-10-16 14:27:13 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:13 +0000  Entitlements for <IDEDistributionItem: 0x7fbd27fcadc0 'com.ampacscorp.factory.PicoTest' '<DVTFilePath:0x7fbd25e13dc0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app'>'>: {
+2018-10-16 14:51:17 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb36dc0a30 'com.apple.dt.runtime.swiftsimd' '<DVTFilePath:0x7fcb38da8680:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app/Frameworks/libswiftsimd.dylib'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsOwRQ5y
+2018-10-16 14:51:17 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlementsOwRQ5y' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftsimd.dylib'
+2018-10-16 14:51:18 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftsimd.dylib: replacing existing signature
+2018-10-16 14:51:18 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app/Frameworks/libswiftsimd.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftsimd]
+2018-10-16 14:51:18 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:18 +0000  Entitlements for <IDEDistributionItem: 0x7fcb38edf040 'com.ampacscorp.factory.PicoTest' '<DVTFilePath:0x7fcb3885ad10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app'>'>: {
     "application-identifier" = "874R32TFC3.com.ampacscorp.factory.PicoTest";
     "com.apple.developer.team-identifier" = 874R32TFC3;
     "get-task-allow" = 0;
@@ -413,62 +413,62 @@ copying file ./AppIcon76x76~ipad.png ...
         "874R32TFC3.com.ampacscorp.factory.PicoTest"
     );
 }
-2018-10-16 14:27:13 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbd27fcadc0 'com.ampacscorp.factory.PicoTest' '<DVTFilePath:0x7fbd25e13dc0:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.26.xcarchive/Products/Applications/PicoTest.app'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsKkF21h
-2018-10-16 14:27:13 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/entitlementsKkF21h' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app'
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app: replacing existing signature
-2018-10-16 14:27:13 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root/Payload/PicoTest.app: signed app bundle with Mach-O universal (armv7 arm64) [com.ampacscorp.factory.PicoTest]
-2018-10-16 14:27:13 +0000  /usr/bin/codesign exited with 0
-2018-10-16 14:27:13 +0000  Processing step: IDEDistributionZipODRItemStep
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2018-10-16 14:27:13 +0000  Processing step: IDEDistributionCreateIPAStep
-2018-10-16 14:27:13 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Packages/PicoTest.ipa'
-2018-10-16 14:27:13 +0000  >>> Copying /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.pfx/Root 
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/pico-EU-Onyx.strings ... 
-2018-10-16 14:27:13 +0000  340 bytes for ./Payload/PicoTest.app/pico-EU-Onyx.strings
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/_CodeSignature/CodeResources ... 
-2018-10-16 14:27:13 +0000  29419 bytes for ./Payload/PicoTest.app/_CodeSignature/CodeResources
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/zh-Hans.lproj/Localizable.strings ... 
-2018-10-16 14:27:13 +0000  2625 bytes for ./Payload/PicoTest.app/zh-Hans.lproj/Localizable.strings
+2018-10-16 14:51:18 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcb38edf040 'com.ampacscorp.factory.PicoTest' '<DVTFilePath:0x7fcb3885ad10:'/Users/ivanshih/Library/Developer/Xcode/Archives/2018-10-16/PicoTest 2018-10-16 下午10.50.xcarchive/Products/Applications/PicoTest.app'>'> to: /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlements3xvOP1
+2018-10-16 14:51:18 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89333C4F2C46A9C752FCED418ACCC60B2D1B430D' '--entitlements' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/entitlements3xvOP1' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app'
+2018-10-16 14:51:18 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app: replacing existing signature
+2018-10-16 14:51:18 +0000  /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root/Payload/PicoTest.app: signed app bundle with Mach-O universal (armv7 arm64) [com.ampacscorp.factory.PicoTest]
+2018-10-16 14:51:18 +0000  /usr/bin/codesign exited with 0
+2018-10-16 14:51:18 +0000  Processing step: IDEDistributionZipODRItemStep
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-10-16 14:51:18 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-10-16 14:51:18 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root' '/var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Packages/PicoTest.ipa'
+2018-10-16 14:51:18 +0000  >>> Copying /var/folders/5m/47pvbn_j00z9p0zsqqfdgmr00000gn/T/XcodeDistPipeline.oxY/Root 
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/pico-EU-Onyx.strings ... 
+2018-10-16 14:51:18 +0000  340 bytes for ./Payload/PicoTest.app/pico-EU-Onyx.strings
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/_CodeSignature/CodeResources ... 
+2018-10-16 14:51:18 +0000  29419 bytes for ./Payload/PicoTest.app/_CodeSignature/CodeResources
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/zh-Hans.lproj/Localizable.strings ... 
+2625 bytes for ./Payload/PicoTest.app/zh-Hans.lproj/Localizable.strings
 copying file ./Payload/PicoTest.app/zh-Hans.lproj/defectedTable.strings ... 
-2018-10-16 14:27:13 +0000  288 bytes for ./Payload/PicoTest.app/zh-Hans.lproj/defectedTable.strings
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/pico-RW-Apple-Onyx.strings ... 
-2018-10-16 14:27:13 +0000  348 bytes for ./Payload/PicoTest.app/pico-RW-Apple-Onyx.strings
-copying file ./Payload/PicoTest.app/AppIcon20x20@2x.png ... 
-2018-10-16 14:27:13 +0000  2215 bytes for ./Payload/PicoTest.app/AppIcon20x20@2x.png
-copying file ./Payload/PicoTest.app/pico-RW-Ice.strings ... 
-2018-10-16 14:27:13 +0000  308 bytes for ./Payload/PicoTest.app/pico-RW-Ice.strings
-copying file ./Payload/PicoTest.app/pico-RW-Onyx.strings ... 
-2018-10-16 14:27:13 +0000  308 bytes for ./Payload/PicoTest.app/pico-RW-Onyx.strings
+288 bytes for ./Payload/PicoTest.app/zh-Hans.lproj/defectedTable.strings
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/pico-RW-Apple-Onyx.strings ... 
+348 bytes for ./Payload/PicoTest.app/pico-RW-Apple-Onyx.strings
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/AppIcon20x20@2x.png ... 
+2018-10-16 14:51:18 +0000  2215 bytes for ./Payload/PicoTest.app/AppIcon20x20@2x.png
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/pico-RW-Ice.strings ... 
+308 bytes for ./Payload/PicoTest.app/pico-RW-Ice.strings
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/pico-RW-Onyx.strings ... 
+2018-10-16 14:51:18 +0000  308 bytes for ./Payload/PicoTest.app/pico-RW-Onyx.strings
 copying file ./Payload/PicoTest.app/AppIcon20x20@3x.png ... 
-2018-10-16 14:27:13 +0000  4075 bytes for ./Payload/PicoTest.app/AppIcon20x20@3x.png
+2018-10-16 14:51:18 +0000  4075 bytes for ./Payload/PicoTest.app/AppIcon20x20@3x.png
 copying file ./Payload/PicoTest.app/PicoTest ... 
-2018-10-16 14:27:13 +0000  888896 bytes for ./Payload/PicoTest.app/PicoTest
+2018-10-16 14:51:18 +0000  888896 bytes for ./Payload/PicoTest.app/PicoTest
 copying file ./Payload/PicoTest.app/pico-RW-Apple-Graphite.strings ... 
-2018-10-16 14:27:13 +0000  350 bytes for ./Payload/PicoTest.app/pico-RW-Apple-Graphite.strings
+2018-10-16 14:51:18 +0000  350 bytes for ./Payload/PicoTest.app/pico-RW-Apple-Graphite.strings
 copying file ./Payload/PicoTest.app/AppIcon60x60@2x.png ... 
 10825 bytes for ./Payload/PicoTest.app/AppIcon60x60@2x.png
 copying file ./Payload/PicoTest.app/reducedHFsweep5s.wav ... 
-2018-10-16 14:27:13 +0000  480044 bytes for ./Payload/PicoTest.app/reducedHFsweep5s.wav
-copying file ./Payload/PicoTest.app/pico-GenII-Onyx.strings ... 
-2018-10-16 14:27:13 +0000  346 bytes for ./Payload/PicoTest.app/pico-GenII-Onyx.strings
+2018-10-16 14:51:18 +0000  480044 bytes for ./Payload/PicoTest.app/reducedHFsweep5s.wav
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/pico-GenII-Onyx.strings ... 
+346 bytes for ./Payload/PicoTest.app/pico-GenII-Onyx.strings
 copying file ./Payload/PicoTest.app/AppIcon29x29@2x.png ... 
 3868 bytes for ./Payload/PicoTest.app/AppIcon29x29@2x.png
 copying file ./Payload/PicoTest.app/pico-EU-Ice.strings ... 
@@ -476,131 +476,131 @@ copying file ./Payload/PicoTest.app/pico-EU-Ice.strings ...
 copying file ./Payload/PicoTest.app/AppIcon40x40@3x.png ... 
 10825 bytes for ./Payload/PicoTest.app/AppIcon40x40@3x.png
 copying file ./Payload/PicoTest.app/AppIcon29x29~ipad.png ... 
-1459 bytes for ./Payload/PicoTest.app/AppIcon29x29~ipad.png
+2018-10-16 14:51:18 +0000  1459 bytes for ./Payload/PicoTest.app/AppIcon29x29~ipad.png
 copying file ./Payload/PicoTest.app/AppIcon40x40@2x.png ... 
-2018-10-16 14:27:13 +0000  5793 bytes for ./Payload/PicoTest.app/AppIcon40x40@2x.png
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/pico-GenII-Ice.strings ... 
-2018-10-16 14:27:13 +0000  346 bytes for ./Payload/PicoTest.app/pico-GenII-Ice.strings
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/AppIcon29x29@3x.png ... 
-2018-10-16 14:27:13 +0000  6727 bytes for ./Payload/PicoTest.app/AppIcon29x29@3x.png
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/AppIcon60x60@3x.png ... 
-2018-10-16 14:27:13 +0000  24334 bytes for ./Payload/PicoTest.app/AppIcon60x60@3x.png
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Localizable.strings ... 
+2018-10-16 14:51:18 +0000  5793 bytes for ./Payload/PicoTest.app/AppIcon40x40@2x.png
+copying file ./Payload/PicoTest.app/pico-GenII-Ice.strings ... 
+2018-10-16 14:51:18 +0000  346 bytes for ./Payload/PicoTest.app/pico-GenII-Ice.strings
+copying file ./Payload/PicoTest.app/AppIcon29x29@3x.png ... 
+2018-10-16 14:51:18 +0000  6727 bytes for ./Payload/PicoTest.app/AppIcon29x29@3x.png
+copying file ./Payload/PicoTest.app/AppIcon60x60@3x.png ... 
+2018-10-16 14:51:18 +0000  24334 bytes for ./Payload/PicoTest.app/AppIcon60x60@3x.png
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Localizable.strings ... 
 3011 bytes for ./Payload/PicoTest.app/Base.lproj/Localizable.strings
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib ... 
-2018-10-16 14:27:13 +0000  4741 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib ... 
-2018-10-16 14:27:13 +0000  10460 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/uploader.nib ... 
-1030 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/uploader.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib ... 
+4736 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/kHd-mJ-Txs-view-hcU-Wu-ak7.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib ... 
+10463 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/xeb-36-CQ7-view-RjQ-rs-gCp.nib
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/uploader.nib ... 
+2018-10-16 14:51:18 +0000  1030 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/uploader.nib
 copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/checkTableVC.nib ... 
-2018-10-16 14:27:13 +0000  1029 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/checkTableVC.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/initTest.nib ... 
-1030 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/initTest.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib ... 
-2018-10-16 14:27:13 +0000  5797 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib ... 
-2018-10-16 14:27:13 +0000  11954 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib ... 
-2018-10-16 14:27:13 +0000  10348 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib ... 
-2018-10-16 14:27:13 +0000  7384 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib ... 
-2018-10-16 14:27:13 +0000  4447 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib ... 
-2018-10-16 14:27:13 +0000  4230 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/main.nib ... 
-2018-10-16 14:27:13 +0000  2483 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/main.nib
+2018-10-16 14:51:18 +0000  1029 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/checkTableVC.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/initTest.nib ... 
+2018-10-16 14:51:18 +0000  1030 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/initTest.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib ... 
+2018-10-16 14:51:18 +0000  5803 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8Jm-eX-38V-view-lRH-hW-CSP.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib ... 
+2018-10-16 14:51:18 +0000  11948 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/rHC-IE-pIE-view-jxp-vT-3GH.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib ... 
+2018-10-16 14:51:18 +0000  10343 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/3dL-m7-AJ7-view-aCa-DX-3yE.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib ... 
+2018-10-16 14:51:18 +0000  7385 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/sp3-jN-GQ5-view-bai-p2-2bg.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib ... 
+2018-10-16 14:51:18 +0000  4448 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/0Do-gv-JZ2-view-bcY-Sa-Dwx.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib ... 
+2018-10-16 14:51:18 +0000  4233 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/8kU-me-N55-view-Z4V-ZB-GRy.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/main.nib ... 
+2018-10-16 14:51:18 +0000  2484 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/main.nib
 copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/finalResult.nib ... 
-2018-10-16 14:27:13 +0000  1036 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/finalResult.nib
+2018-10-16 14:51:18 +0000  1036 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/finalResult.nib
 copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib ... 
-2018-10-16 14:27:13 +0000  7286 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/factoryReset.nib ... 
-2018-10-16 14:27:13 +0000  1101 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/factoryReset.nib
+2018-10-16 14:51:18 +0000  7284 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Bje-Qr-scm-view-OSZ-15-cHZ.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/factoryReset.nib ... 
+2018-10-16 14:51:18 +0000  1101 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/factoryReset.nib
 copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib ... 
-2018-10-16 14:27:13 +0000  9070 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/accessoryPrinter.nib ... 
-2018-10-16 14:27:13 +0000  1250 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/accessoryPrinter.nib
-copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/resetDefault.nib ... 
-2018-10-16 14:27:13 +0000  1116 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/resetDefault.nib
+2018-10-16 14:51:18 +0000  9071 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/R4h-lQ-prs-view-ab6-7I-RGe.nib
+copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/accessoryPrinter.nib ... 
+2018-10-16 14:51:18 +0000  1250 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/accessoryPrinter.nib
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/resetDefault.nib ... 
+2018-10-16 14:51:18 +0000  1116 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/resetDefault.nib
 copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/notFinalResult.nib ... 
-2018-10-16 14:27:13 +0000  934 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/notFinalResult.nib
+2018-10-16 14:51:18 +0000  934 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/notFinalResult.nib
 copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/testTemplate.nib ... 
-2018-10-16 14:27:13 +0000  1038 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/testTemplate.nib
-copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Info.plist ... 
-2018-10-16 14:27:13 +0000  497 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Info.plist
-copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/mainScene.nib ... 
-2018-10-16 14:27:13 +0000  1671 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/mainScene.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/defectedTable.strings ... 
-2018-10-16 14:27:13 +0000  400 bytes for ./Payload/PicoTest.app/Base.lproj/defectedTable.strings
+2018-10-16 14:51:18 +0000  1038 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/testTemplate.nib
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Info.plist ... 
+497 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/Info.plist
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/mainScene.nib ... 
+2018-10-16 14:51:18 +0000  1671 bytes for ./Payload/PicoTest.app/Base.lproj/Main.storyboardc/mainScene.nib
+copying file ./Payload/PicoTest.app/Base.lproj/defectedTable.strings ... 
+2018-10-16 14:51:18 +0000  400 bytes for ./Payload/PicoTest.app/Base.lproj/defectedTable.strings
 copying file ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
-2018-10-16 14:27:13 +0000  1792 bytes for ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
-2018-10-16 14:27:13 +0000  832 bytes for ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
-copying file ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
-2018-10-16 14:27:13 +0000  258 bytes for ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/zh-Hant.lproj/Localizable.strings ... 
-2018-10-16 14:27:13 +0000  2623 bytes for ./Payload/PicoTest.app/zh-Hant.lproj/Localizable.strings
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/zh-Hant.lproj/defectedTable.strings ... 
+2018-10-16 14:51:18 +0000  1790 bytes for ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-10-16 14:51:18 +0000  832 bytes for ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/PicoTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/zh-Hant.lproj/Localizable.strings ... 
+2018-10-16 14:51:18 +0000  2623 bytes for ./Payload/PicoTest.app/zh-Hant.lproj/Localizable.strings
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/zh-Hant.lproj/defectedTable.strings ... 
 284 bytes for ./Payload/PicoTest.app/zh-Hant.lproj/defectedTable.strings
-2018-10-16 14:27:13 +0000  copying file ./Payload/PicoTest.app/pico-EU-Apple-Graphite.strings ... 
-2018-10-16 14:27:13 +0000  359 bytes for ./Payload/PicoTest.app/pico-EU-Apple-Graphite.strings
+2018-10-16 14:51:18 +0000  copying file ./Payload/PicoTest.app/pico-EU-Apple-Graphite.strings ... 
+2018-10-16 14:51:18 +0000  359 bytes for ./Payload/PicoTest.app/pico-EU-Apple-Graphite.strings
 copying file ./Payload/PicoTest.app/Assets.car ... 
-2018-10-16 14:27:13 +0000  456456 bytes for ./Payload/PicoTest.app/Assets.car
+2018-10-16 14:51:18 +0000  456456 bytes for ./Payload/PicoTest.app/Assets.car
 copying file ./Payload/PicoTest.app/AppIcon40x40@2x~ipad.png ... 
-2018-10-16 14:27:13 +0000  5793 bytes for ./Payload/PicoTest.app/AppIcon40x40@2x~ipad.png
+2018-10-16 14:51:18 +0000  5793 bytes for ./Payload/PicoTest.app/AppIcon40x40@2x~ipad.png
 copying file ./Payload/PicoTest.app/AppIcon76x76@2x~ipad.png ... 
 14213 bytes for ./Payload/PicoTest.app/AppIcon76x76@2x~ipad.png
 copying file ./Payload/PicoTest.app/AppIcon83.5x83.5@2x~ipad.png ... 
 16269 bytes for ./Payload/PicoTest.app/AppIcon83.5x83.5@2x~ipad.png
 copying file ./Payload/PicoTest.app/AppIcon29x29@2x~ipad.png ... 
-2018-10-16 14:27:13 +0000  3868 bytes for ./Payload/PicoTest.app/AppIcon29x29@2x~ipad.png
+2018-10-16 14:51:18 +0000  3868 bytes for ./Payload/PicoTest.app/AppIcon29x29@2x~ipad.png
 copying file ./Payload/PicoTest.app/RoastMutton-30s.wav ... 
-2018-10-16 14:27:13 +0000  968634 bytes for ./Payload/PicoTest.app/RoastMutton-30s.wav
+2018-10-16 14:51:18 +0000  968634 bytes for ./Payload/PicoTest.app/RoastMutton-30s.wav
 copying file ./Payload/PicoTest.app/AppIcon40x40~ipad.png ... 
-2018-10-16 14:27:13 +0000  2215 bytes for ./Payload/PicoTest.app/AppIcon40x40~ipad.png
+2018-10-16 14:51:18 +0000  2215 bytes for ./Payload/PicoTest.app/AppIcon40x40~ipad.png
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib ... 
-2018-10-16 14:27:13 +0000  251072 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib
+2018-10-16 14:51:18 +0000  251072 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreImage.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib ... 
-2018-10-16 14:27:13 +0000  299616 bytes for ./Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib
+2018-10-16 14:51:18 +0000  299616 bytes for ./Payload/PicoTest.app/Frameworks/libswiftObjectiveC.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCore.dylib ... 
-2018-10-16 14:27:14 +0000  16705136 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCore.dylib
+2018-10-16 14:51:19 +0000  16705136 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCore.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib ... 
-2018-10-16 14:27:14 +0000  651808 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib
+2018-10-16 14:51:19 +0000  651808 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreGraphics.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib ... 
-2018-10-16 14:27:14 +0000  527104 bytes for ./Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib
+2018-10-16 14:51:19 +0000  527104 bytes for ./Payload/PicoTest.app/Frameworks/libswiftUIKit.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftMetal.dylib ... 
-2018-10-16 14:27:14 +0000  295712 bytes for ./Payload/PicoTest.app/Frameworks/libswiftMetal.dylib
+2018-10-16 14:51:19 +0000  295712 bytes for ./Payload/PicoTest.app/Frameworks/libswiftMetal.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib ... 
-2018-10-16 14:27:14 +0000  352672 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib
+2018-10-16 14:51:19 +0000  352672 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreData.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib ... 
-2018-10-16 14:27:14 +0000  1059216 bytes for ./Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib
+2018-10-16 14:51:19 +0000  1059216 bytes for ./Payload/PicoTest.app/Frameworks/libswiftDispatch.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftos.dylib ... 
-2018-10-16 14:27:14 +0000  299936 bytes for ./Payload/PicoTest.app/Frameworks/libswiftos.dylib
+2018-10-16 14:51:19 +0000  299936 bytes for ./Payload/PicoTest.app/Frameworks/libswiftos.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib ... 
-2018-10-16 14:27:14 +0000  356176 bytes for ./Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib
+2018-10-16 14:51:19 +0000  356176 bytes for ./Payload/PicoTest.app/Frameworks/libswiftMediaPlayer.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib ... 
-2018-10-16 14:27:14 +0000  250768 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib
+2018-10-16 14:51:19 +0000  250768 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreFoundation.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib ... 
-2018-10-16 14:27:14 +0000  402976 bytes for ./Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib
+2018-10-16 14:51:19 +0000  402976 bytes for ./Payload/PicoTest.app/Frameworks/libswiftDarwin.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib ... 
-2018-10-16 14:27:14 +0000  255104 bytes for ./Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib
+2018-10-16 14:51:19 +0000  255104 bytes for ./Payload/PicoTest.app/Frameworks/libswiftQuartzCore.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib ... 
-2018-10-16 14:27:14 +0000  348640 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib
+2018-10-16 14:51:19 +0000  348640 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreAudio.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib ... 
-2018-10-16 14:27:14 +0000  525872 bytes for ./Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib
-2018-10-16 14:27:14 +0000  copying file ./Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib ... 
-2018-10-16 14:27:14 +0000  8352432 bytes for ./Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib
+2018-10-16 14:51:19 +0000  525872 bytes for ./Payload/PicoTest.app/Frameworks/libswiftAVFoundation.dylib
+copying file ./Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib ... 
+2018-10-16 14:51:19 +0000  8352432 bytes for ./Payload/PicoTest.app/Frameworks/libswiftFoundation.dylib
 copying file ./Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib ... 
-2018-10-16 14:27:14 +0000  299936 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib
-copying file ./Payload/PicoTest.app/Frameworks/libswiftsimd.dylib ... 
-2018-10-16 14:27:14 +0000  1802624 bytes for ./Payload/PicoTest.app/Frameworks/libswiftsimd.dylib
-2018-10-16 14:27:14 +0000  copying file ./Payload/PicoTest.app/AppIcon20x20~ipad.png ... 
+2018-10-16 14:51:19 +0000  299936 bytes for ./Payload/PicoTest.app/Frameworks/libswiftCoreMedia.dylib
+2018-10-16 14:51:19 +0000  copying file ./Payload/PicoTest.app/Frameworks/libswiftsimd.dylib ... 
+2018-10-16 14:51:19 +0000  1802624 bytes for ./Payload/PicoTest.app/Frameworks/libswiftsimd.dylib
+2018-10-16 14:51:19 +0000  copying file ./Payload/PicoTest.app/AppIcon20x20~ipad.png ... 
 865 bytes for ./Payload/PicoTest.app/AppIcon20x20~ipad.png
 copying file ./Payload/PicoTest.app/LR-test-10s.mp3 ... 
-2018-10-16 14:27:14 +0000  322401 bytes for ./Payload/PicoTest.app/LR-test-10s.mp3
+2018-10-16 14:51:19 +0000  322401 bytes for ./Payload/PicoTest.app/LR-test-10s.mp3
 copying file ./Payload/PicoTest.app/embedded.mobileprovision ... 
-2018-10-16 14:27:14 +0000  7601 bytes for ./Payload/PicoTest.app/embedded.mobileprovision
+2018-10-16 14:51:19 +0000  7608 bytes for ./Payload/PicoTest.app/embedded.mobileprovision
 copying file ./Payload/PicoTest.app/pico-EU-Apple-Onyx.strings ... 
 357 bytes for ./Payload/PicoTest.app/pico-EU-Apple-Onyx.strings
 copying file ./Payload/PicoTest.app/pico-GenII-Graphite.strings ... 
@@ -612,8 +612,8 @@ copying file ./Payload/PicoTest.app/Info.plist ...
 copying file ./Payload/PicoTest.app/PkgInfo ... 
 8 bytes for ./Payload/PicoTest.app/PkgInfo
 copying file ./Payload/PicoTest.app/AppIcon76x76~ipad.png ... 
-2018-10-16 14:27:14 +0000  5254 bytes for ./Payload/PicoTest.app/AppIcon76x76~ipad.png
-2018-10-16 14:27:14 +0000  /usr/bin/ditto exited with 0
-2018-10-16 14:27:14 +0000  Processing step: IDEDistributionAppStoreInformationStep
-2018-10-16 14:27:14 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
-2018-10-16 14:27:14 +0000  Processing step: IDEDistributionCreateManifestStep
+2018-10-16 14:51:19 +0000  5254 bytes for ./Payload/PicoTest.app/AppIcon76x76~ipad.png
+2018-10-16 14:51:19 +0000  /usr/bin/ditto exited with 0
+2018-10-16 14:51:19 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2018-10-16 14:51:19 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2018-10-16 14:51:19 +0000  Processing step: IDEDistributionCreateManifestStep

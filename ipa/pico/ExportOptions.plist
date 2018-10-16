@@ -20,7 +20,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.ampacscorp.factory.PicoTest</key>
-		<string>App for factory testing</string>
+		<string>App for factory testing(AdHoc)</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
