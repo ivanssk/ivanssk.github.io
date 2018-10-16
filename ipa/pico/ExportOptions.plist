@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://ivanssk.github.io/ipa/picoTest2.1.ipa</string>
+		<string>https://ivanssk.github.io/ipa/pico/PicoTest.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://ivanssk.github.io/ipa/picoTest57x57.png</string>
+		<string>https://ivanssk.github.io/ipa/pico/picoTest57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://ivanssk.github.io/ipa/picoTest512x512.png</string>
+		<string>https://ivanssk.github.io/ipa/pico/picoTest512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
